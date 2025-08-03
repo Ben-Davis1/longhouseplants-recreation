@@ -65,7 +65,7 @@ const RainfallChart = ({ data, showAverage = true }: RainfallChartProps) => {
                   y={averageRainfall} 
                   stroke="#ef4444" 
                   strokeDasharray="5 5"
-                  label={{ value: "Average: 719.18 mm", position: "topRight" }}
+                  label={{ value: "Average: 719.18 mm", position: "top" }}
                 />
               )}
               <Bar 
