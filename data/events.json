@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "date": "Saturday 15th March",
+    "title": "NGS Pop-up Garden Opening",
+    "time": "11 am–4 pm",
+    "description": "Special pop-up opening for the National Garden Scheme. Tea & cake provided by Salvation Army.",
+    "charity": "National Garden Scheme",
+    "pricing": { "adult": 7, "child": 3 }
+  },
+  {
+    "id": "2", 
+    "date": "Saturday 28th June",
+    "title": "Open Garden Day",
+    "time": "11 am–4 pm",
+    "description": "Summer garden opening with refreshments. Tea & cake provided by Salvation Army.",
+    "charity": "Salvation Army",
+    "pricing": { "adult": 7, "child": 3 }
+  },
+  {
+    "id": "3",
+    "date": "Wednesday 9th July",
+    "title": "National Garden Scheme Opening",
+    "time": "11 am–4 pm", 
+    "description": "Midweek opening for the National Garden Scheme. Tea & cake available.",
+    "charity": "National Garden Scheme",
+    "pricing": { "adult": 7, "child": 3 }
+  },
+  {
+    "id": "4",
+    "date": "Saturday 19th July",
+    "title": "Open Garden Day",
+    "time": "11 am–4 pm",
+    "description": "Summer garden opening with refreshments. Tea & cake provided by Salvation Army.",
+    "charity": "Salvation Army", 
+    "pricing": { "adult": 7, "child": 3 }
+  },
+  {
+    "id": "5",
+    "date": "Wednesday 6th August",
+    "title": "National Garden Scheme Opening",
+    "time": "11 am–4 pm",
+    "description": "Midweek opening for the National Garden Scheme. Tea & cake available.",
+    "charity": "National Garden Scheme",
+    "pricing": { "adult": 7, "child": 3 }
+  },
+  {
+    "id": "6",
+    "date": "Saturday 16th August",
+    "title": "Open Garden Day", 
+    "time": "11 am–4 pm",
+    "description": "Summer garden opening with refreshments. Tea & cake provided by Salvation Army.",
+    "charity": "Salvation Army",
+    "pricing": { "adult": 7, "child": 3 }
+  },
+  {
+    "id": "7",
+    "date": "Wednesday 3rd September", 
+    "title": "National Garden Scheme Opening",
+    "time": "11 am–4 pm",
+    "description": "Final midweek opening for the National Garden Scheme. Tea & cake available.",
+    "charity": "National Garden Scheme",
+    "pricing": { "adult": 7, "child": 3 }
+  },
+  {
+    "id": "8",
+    "date": "Saturday 13th September",
+    "title": "Open Garden Day",
+    "time": "11 am–4 pm", 
+    "description": "Late summer garden opening with refreshments. Tea & cake provided by Salvation Army.",
+    "charity": "Salvation Army",
+    "pricing": { "adult": 7, "child": 3 }
+  },
+  {
+    "id": "9",
+    "date": "Saturday 27th September",
+    "title": "Macmillan Coffee Morning",
+    "time": "11 am–4 pm",
+    "description": "Special coffee morning supporting Macmillan Cancer Support. Tea & cake available.",
+    "charity": "Macmillan Cancer Support", 
+    "pricing": { "adult": 7, "child": 3 }
+  }
+]

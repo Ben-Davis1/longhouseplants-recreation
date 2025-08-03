@@ -1,0 +1,21 @@
+[
+  { "year": 2006, "rainfall_mm": 668.5, "rainfall_inches": 26.3 },
+  { "year": 2007, "rainfall_mm": 742.0, "rainfall_inches": 29.2 },
+  { "year": 2008, "rainfall_mm": 805.2, "rainfall_inches": 31.7 },
+  { "year": 2009, "rainfall_mm": 701.0, "rainfall_inches": 27.6 },
+  { "year": 2010, "rainfall_mm": 634.7, "rainfall_inches": 25.0 },
+  { "year": 2011, "rainfall_mm": 589.3, "rainfall_inches": 23.2 },
+  { "year": 2012, "rainfall_mm": 826.8, "rainfall_inches": 32.6 },
+  { "year": 2013, "rainfall_mm": 701.5, "rainfall_inches": 27.6 },
+  { "year": 2014, "rainfall_mm": 781.1, "rainfall_inches": 30.8 },
+  { "year": 2015, "rainfall_mm": 658.4, "rainfall_inches": 25.9 },
+  { "year": 2016, "rainfall_mm": 689.6, "rainfall_inches": 27.1 },
+  { "year": 2017, "rainfall_mm": 712.5, "rainfall_inches": 28.1 },
+  { "year": 2018, "rainfall_mm": 578.9, "rainfall_inches": 22.8 },
+  { "year": 2019, "rainfall_mm": 692.8, "rainfall_inches": 27.3 },
+  { "year": 2020, "rainfall_mm": 784.3, "rainfall_inches": 30.9 },
+  { "year": 2021, "rainfall_mm": 756.2, "rainfall_inches": 29.8 },
+  { "year": 2022, "rainfall_mm": 612.4, "rainfall_inches": 24.1 },
+  { "year": 2023, "rainfall_mm": 841.9, "rainfall_inches": 33.2 },
+  { "year": 2024, "rainfall_mm": 853.0, "rainfall_inches": 33.6 }
+]
